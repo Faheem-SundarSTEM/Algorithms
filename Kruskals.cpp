@@ -1,3 +1,7 @@
+/*
+	Author  ---> Faheem khan
+	Kruskals Algorithm for minimum spanning tree .
+*/
 // # include <bits/stdc++.h>
 # include <iostream>
 # include <vector>  
