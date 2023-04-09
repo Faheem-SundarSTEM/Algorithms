@@ -1,3 +1,7 @@
+/*
+	Author  Faheem khan.
+	Prims algorithm for minimum spanning tree .
+*/
 // # include <bits/stdc++.h>
 # include <iostream>
 # include <vector>  
